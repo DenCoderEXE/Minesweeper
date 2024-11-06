@@ -28,8 +28,12 @@ Minesweeper game in C programming language. Graphics is realized by â€œncursesâ€
 	- Left and right arrows (or A and D keys) for changing parameters
 	- ESC to return to the menu
  
-![Menu](https://github.com/DenCoderEXE/Minesweeper/main/src/Menu.gif)
-![Settings](https://github.com/DenCoderEXE/Minesweeper/main/src/Settings.gif)
-![Difficulties](https://github.com/DenCoderEXE/Minesweeper/main/src/Difficulties.gif)
-![Victory](https://github.com/DenCoderEXE/Minesweeper/main/src/Victory.gif)
-![Defeat](https://github.com/DenCoderEXE/Minesweeper/main/src/Defeat.gif)
+![Menu](https://github.com/DenCoderEXE/Minesweeper/blob/main/src/Menu.gif)
+
+![Settings](https://github.com/DenCoderEXE/Minesweeper/blob/main/src/Settings.gif)
+
+![Difficulties](https://github.com/DenCoderEXE/Minesweeper/blob/main/src/Difficulties.gif)
+
+![Victory](https://github.com/DenCoderEXE/Minesweeper/blob/main/src/Victory.gif)
+
+![Defeat](https://github.com/DenCoderEXE/Minesweeper/blob/main/src/Defeat.gif)
